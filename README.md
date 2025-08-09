@@ -67,7 +67,7 @@ This project showcases my SQL skills learned as part of my Data Science training
 
 ---
 
-## **📄 SQL_HandsOn_Project.sql (with definitions)**
+## **📄 SQL_HandsOn_Project.sql**
 
 Here’s how I’ll structure it inside the SQL file:
 
