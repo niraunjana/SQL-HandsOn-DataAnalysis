@@ -159,4 +159,18 @@ LIMIT 5;
 
 ```
 
+## Sample Output
+
+
+<img width="749" height="124" alt="image" src="https://github.com/user-attachments/assets/c3a77e25-06b7-49a9-ab08-be09313f7456" />
+
+
+<img width="698" height="377" alt="image" src="https://github.com/user-attachments/assets/2daf9910-b0f5-4036-b413-0264b95d420b" />
+
+
+
+## Result
+
+All SQL operations, including database creation, data insertion, and query execution, were performed successfully. The outputs accurately reflected the expected results for each test scenario, validating the correctness of the queries.
+
 
